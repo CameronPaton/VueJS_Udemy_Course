@@ -1,18 +1,30 @@
-# wonderful_quotes
+## VueJS - The Complete Guide Project 1
 
-> VueJS Udemy Course Project
+### Wonderful Quotes Project
 
-## Build Setup
+---
 
-``` bash
-# install dependencies
-npm install
+##### Project Overview
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-```
+---
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##### Techonologies
+
+---
+
+##### Functionality
+
+---
+
+##### Preview
+
+Please see below for a preview of how the project looks:
+
+![Preview](https://www.dropbox.com/s/rszil1hje9st5iz/Vue-Quotes_Project.png?dl=0)
+
+---
+
+##### Live Application
+
+To try out the functionality of the app please click [here](https://im5xo.csb.app/)
