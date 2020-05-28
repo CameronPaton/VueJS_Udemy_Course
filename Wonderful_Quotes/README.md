@@ -47,7 +47,7 @@ In App.vue QuoteGrid.vue is imported and a component created in the instance and
 
 Please see below for a preview of how the project looks:
 
-![Preview](https://www.dropbox.com/s/rszil1hje9st5iz/Vue-Quotes_Project.png?dl=0)
+![Preview](https://uc0e87841e9bac6ad3fc07d94082.previews.dropboxusercontent.com/p/thumb/AAxgPXuRy6VYvWHEWYYNfCaNwJcFrEzNJutUqcsoxv8ayap_FwXy_Q18xoWTK8Grn12vO9RWARKTz4tI-X1uLMUURVlsUcGdT1muUIAvDn7HJnuL3fk7A5iuyZwQJEkGAT9sOgkd38tjngXWTlMxrYxQwj278Vag9KC2VWz3l2I4L3Hz4kKRGS-5MjKDZfXoigI7VR0r-I8QVBVes5YyWpY6_fcPErJS-P9YzGtEn5-9m63R0X1g4XuvjrZI5ux1z_36g6p_sXAfodTqIOFEUC4kcVGseJUvLpzYbgBk0z0FlLPiW9vypgh34pqMQLDXp1MQ46kTA-5fqudI89qHbvGB2aKoeZlX2xNqmiY0MaJxdpkAKkMjFaiE-HIh_Lz5GtW10w3YLG_juq7tUKs0UKClfqbBkoIEPMW0uzyRSvrsfcsjicCLbQP2T3CaOFQoy169jaXJXv-W4eeS1pFdim5TR1geGv-UO2uNt8Y64R_KrQ/p.png?fv_content=true&size_mode=5)
 
 ---
 
