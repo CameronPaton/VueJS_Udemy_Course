@@ -1,24 +1,34 @@
-# stocktrader_app
+## VueJS - The Complete Guide Project 2
 
-## Project setup
-```
-npm install
-```
+### The Stocktrader Project
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+---
 
-### Compiles and minifies for production
-```
-npm run build
-```
+##### Project Overview
 
-### Lints and fixes files
-```
-npm run lint
-```
+---
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##### Techonologies
+
+- HTML
+- CSS
+- Bootstrap
+- VueJS
+
+---
+
+##### Functionality
+
+---
+
+##### Preview
+
+Please see below for a preview of how the project looks:
+
+![Preview]()
+
+---
+
+##### Live Application
+
+To try out the functionality of the app please click [here]()
