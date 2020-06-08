@@ -2,5 +2,5 @@ module.exports = {
   presets: [
     '@vue/cli-plugin-babel/preset'
   ]
-  ["stage-2"]
+  ["@babel/preset-stage-2"]
 }
