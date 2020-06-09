@@ -25,7 +25,7 @@
 
 Please see below for a preview of how the project looks:
 
-![Preview]()
+![Preview](https://www.dropbox.com/home?preview=Screen+Recording+2020-06-09+at+10.38.41.mov)
 
 ---
 
