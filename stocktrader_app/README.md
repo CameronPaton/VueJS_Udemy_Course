@@ -56,8 +56,14 @@ Please see below for a preview of how the project looks:
 
 ![Preview](https://raw.githubusercontent.com/CameronPaton/Images-Portfolio/master/Stocks_vue-1.png)
 
+---
+
 ![Preview](https://raw.githubusercontent.com/CameronPaton/Images-Portfolio/master/Stocks_vue-2.png)
 
+---
+
 ![Preview](https://raw.githubusercontent.com/CameronPaton/Images-Portfolio/master/Stocks_vue-3.png)
+
+---
 
 
